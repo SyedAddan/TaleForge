@@ -18,6 +18,7 @@ TaleForge is an extraordinary machine learning endeavor that celebrates the art 
 
 The TaleForge project directory is meticulously designed to ensure a smooth and immersive experience. Here's an overview:
 
+```markdown
 ├── LICENSE
 ├── Makefile                		<- Makefile with commands like `make data` or `make train`
 ├── README.md            	<- The top-level README for developers using this project. (you are here!)
@@ -43,6 +44,7 @@ The TaleForge project directory is meticulously designed to ensure a smooth and 
     │   └── train_model.py
     └── visualization       		<- Scripts to create exploratory and results-oriented visualizations.
         └── visualize.py
+```
 
 ## Installation
 
